@@ -3,7 +3,7 @@
 A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3.3V.
 
 ## Purchasing a PCB
-- [Isik's Tech (Me) on Etsy (US)](.)
+- ~~[Isik's Tech (Me) on Etsy (US)](.)~~ soon
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
