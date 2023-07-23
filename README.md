@@ -1,41 +1,14 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
+# BME280 & SGP40 Sensor PCB for Nevermore Air Filters
+![Nevermore Sensors PCB](./Images/PCB.png)
+A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3.3V.
 
-### Features
-
-Only add if there are features worth explaining/listing in a table.
-
-## Purchasing a XXX
-- Store 1 (...)
+## Purchasing a PCB
+- [Isik's Tech (Me) on Etsy (US)](.)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
 You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
 <br>
-
-## Instructions
-
-...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
 
 ## YouTube
 
