@@ -3,7 +3,12 @@
 A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3.3V.
 
 ## Purchasing a PCB
-- [xbst_1 (Me) on eBay (US)](https://www.ebay.com/itm/155719560222)
+### United States
+- [Amazon - Prime Shipping](https://www.amazon.com/dp/B0CGKHSLXH)
+- ~~[Isik's Tech Store](https://store.isiks.tech/products/bme280-sgp40-air-quality-sensors-for-nevermore-air-filters) (Me)~~ - Opening Soon
+- [eBay](https://www.ebay.com/itm/155719560222)
+### European Union
+- [Lab4450 - Portugal](https://lab4450.com/product/air-quality-sensor-bme280-sgp40/)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
