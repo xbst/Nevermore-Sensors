@@ -3,11 +3,17 @@
 A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3.3V.
 
 ## Purchasing a PCB
-- ~~[Isik's Tech (Me) on Etsy (US)](.)~~ soon
+### United States
+- [Amazon - Prime Shipping](https://www.amazon.com/dp/B0CGKHSLXH)
+- [Isik's Tech Store](https://store.isiks.tech/products/bme280-sgp40-air-quality-sensors-for-nevermore-air-filters) (Me)
+- [eBay](https://www.ebay.com/itm/155719560222) (Me - International)
+- [West3D](https://west3d.com/products/nevermore-sensor-bme280-sgp40-air-quality-sensors-for-nevermore-air-filters-pcb-by-isiks-tech)
+### European Union
+- [Lab4450 - Portugal](https://lab4450.com/product/air-quality-sensor-bme280-sgp40/)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841).
 <br>
 
 ## YouTube
