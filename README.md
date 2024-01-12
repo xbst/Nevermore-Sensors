@@ -6,7 +6,6 @@ A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3
 ### United States
 - [Amazon - Prime Shipping](https://www.amazon.com/Isiks-Tech-BME280-Quality-Sensors/dp/B0CGKHSLXH?maas=maas_adg_3F3CCE69E0AA3108CB3F57E32C989B77_afap_abs&ref_=aa_maas&tag=maas)
 - [Isik's Tech Store](https://store.isiks.tech/products/bme280-sgp40-air-quality-sensors-for-nevermore-air-filters) (Me)
-- [eBay](https://www.ebay.com/itm/155719560222) (Me - International)
 - [West3D](https://west3d.com/products/nevermore-sensor-bme280-sgp40-air-quality-sensors-for-nevermore-air-filters-pcb-by-isiks-tech)
 ### European Union
 - [Lab4450 - Portugal](https://lab4450.com/product/air-quality-sensor-bme280-sgp40/)
