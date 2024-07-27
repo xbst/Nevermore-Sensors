@@ -9,6 +9,8 @@ A compact PCB with SGP40 and BME280 sensors wired in I2C mode and powered with 3
 - [West3D](https://west3d.com/products/nevermore-sensor-bme280-sgp40-air-quality-sensors-for-nevermore-air-filters-pcb-by-isiks-tech)
 ### European Union
 - [Lab4450 - Portugal](https://lab4450.com/product/air-quality-sensor-bme280-sgp40/)
+### Australia
+- [DREMC](https://store.dremc.com.au/products/bme280-sgp40-air-quality-sensors-for-nevermore-air-filters-by-isiks-tech)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
